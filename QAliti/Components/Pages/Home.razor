@@ -1,0 +1,17 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+@using QAliti.Sections
+<PageTitle>QAliti</PageTitle>
+
+<link href="css/app.css" rel="stylesheet" />
+<script src="js/scripts.js"></script>
+<About/>
+<Services/>
+<Contact/>
+@code {
+    private async Task ScrollToTop()
+    {
+
+        await JSRuntime.InvokeVoidAsync("scrollToTop");
+    }
+}

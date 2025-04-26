@@ -1,0 +1,17 @@
+﻿@inject IJSRuntime JSRuntime
+
+<nav class="top-navbar">
+    <ul>
+        <li><a href="#about" @onclick="ScrollToTop">O mnie</a></li>
+        <li><a href="#services" >Usługi</a></li>
+        <li><a href="#contact" >Kontakt</a></li>
+    </ul>
+</nav>
+
+@code {
+    private async Task ScrollToTop()
+    {
+        
+        await JSRuntime.InvokeVoidAsync("scrollToTop");
+    }
+}

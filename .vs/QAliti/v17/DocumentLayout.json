@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olama\\Desktop\\QAliti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\sections\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\sections\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\sections\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\sections\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\sections\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\sections\\services.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|c:\\users\\olama\\desktop\\qaliti\\qaliti\\wwwroot\\bootstrap\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0DB13660-1CFA-46A1-812F-4A60164ED0F3}|QAliti\\QAliti.csproj|solutionrelative:qaliti\\wwwroot\\bootstrap\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Sections\\Contact.razor",
+              "RelativeDocumentMoniker": "QAliti\\Sections\\Contact.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Sections\\Contact.razor",
+              "RelativeToolTip": "QAliti\\Sections\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T19:33:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Sections\\Services.razor",
+              "RelativeDocumentMoniker": "QAliti\\Sections\\Services.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Sections\\Services.razor",
+              "RelativeToolTip": "QAliti\\Sections\\Services.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T19:31:02.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Sections\\About.razor",
+              "RelativeDocumentMoniker": "QAliti\\Sections\\About.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Sections\\About.razor",
+              "RelativeToolTip": "QAliti\\Sections\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T15:23:10.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "QAliti\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "QAliti\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T15:20:22.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "RelativeToolTip": "QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABzPgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T20:13:07.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "QAliti\\wwwroot\\js\\scripts.js",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "QAliti\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-25T20:13:33.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "QAliti\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\app.css",
+              "RelativeToolTip": "QAliti\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-25T15:20:00.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\App.razor",
+              "RelativeDocumentMoniker": "QAliti\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\App.razor",
+              "RelativeToolTip": "QAliti\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T20:13:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "QAliti\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "QAliti\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T20:17:23.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "QAliti\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\_Imports.razor",
+              "RelativeToolTip": "QAliti\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T20:13:03.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "QAliti\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "QAliti\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-25T19:38:50.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

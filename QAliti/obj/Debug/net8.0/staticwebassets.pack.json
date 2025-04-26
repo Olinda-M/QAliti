@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QAliti.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QAliti.hage11b2tc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\images\\koteczek.jpg",
+      "PackagePath": "staticwebassets\\images\\koteczek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QAliti.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QAliti.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QAliti.props",
+      "PackagePath": "build\\QAliti.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QAliti.props",
+      "PackagePath": "buildMultiTargeting\\QAliti.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QAliti.props",
+      "PackagePath": "buildTransitive\\QAliti.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

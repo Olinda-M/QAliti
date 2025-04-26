@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "u1Ilmr/Apo0L0Bzrhs5XY82FqJzVFUDY2s9bQIctvTU=",
+  "Source": "QAliti",
+  "BasePath": "_content/QAliti",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QAliti\\wwwroot",
+      "Source": "QAliti",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QAliti.styles.css",
+      "SourceId": "QAliti",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "QAliti#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "hage11b2tc",
+      "Integrity": "B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QAliti.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QAliti.bundle.scp.css",
+      "SourceId": "QAliti",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "QAliti#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "hage11b2tc",
+      "Integrity": "B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QAliti.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\app.css",
+      "SourceId": "QAliti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2pu9938oqj",
+      "Integrity": "WufdRwLP35SQsNpDVpS+c+nfVXHDAvAI17kH5gZBMdc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "QAliti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "QAliti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\favicon.png",
+      "SourceId": "QAliti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\images\\koteczek.jpg",
+      "SourceId": "QAliti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "images/koteczek#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "23zy2jfcwo",
+      "Integrity": "4rscHTELyZr1wGWrA8KJPu7m7RjUCEq0PpyDk4FCPYA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\koteczek.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\js\\scripts.js",
+      "SourceId": "QAliti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\",
+      "BasePath": "_content/QAliti",
+      "RelativePath": "js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zcnpclm50c",
+      "Integrity": "fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.2pu9938oqj.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WufdRwLP35SQsNpDVpS+c+nfVXHDAvAI17kH5gZBMdc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 10:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pu9938oqj"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WufdRwLP35SQsNpDVpS+c+nfVXHDAvAI17kH5gZBMdc="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WufdRwLP35SQsNpDVpS+c+nfVXHDAvAI17kH5gZBMdc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 10:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WufdRwLP35SQsNpDVpS+c+nfVXHDAvAI17kH5gZBMdc="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:18:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/koteczek.23zy2jfcwo.jpg",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\images\\koteczek.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4rscHTELyZr1wGWrA8KJPu7m7RjUCEq0PpyDk4FCPYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "23zy2jfcwo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/koteczek.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4rscHTELyZr1wGWrA8KJPu7m7RjUCEq0PpyDk4FCPYA="
+        }
+      ]
+    },
+    {
+      "Route": "images/koteczek.jpg",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\images\\koteczek.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4rscHTELyZr1wGWrA8KJPu7m7RjUCEq0PpyDk4FCPYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 19:45:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4rscHTELyZr1wGWrA8KJPu7m7RjUCEq0PpyDk4FCPYA="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 20:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.zcnpclm50c.js",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 20:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcnpclm50c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI="
+        }
+      ]
+    },
+    {
+      "Route": "QAliti.bundle.scp.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QAliti.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 10:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo="
+        }
+      ]
+    },
+    {
+      "Route": "QAliti.hage11b2tc.bundle.scp.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QAliti.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 10:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hage11b2tc"
+        },
+        {
+          "Name": "label",
+          "Value": "QAliti.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo="
+        }
+      ]
+    },
+    {
+      "Route": "QAliti.hage11b2tc.styles.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QAliti.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 10:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hage11b2tc"
+        },
+        {
+          "Name": "label",
+          "Value": "QAliti.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo="
+        }
+      ]
+    },
+    {
+      "Route": "QAliti.styles.css",
+      "AssetFile": "C:\\Users\\olama\\Desktop\\QAliti\\QAliti\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QAliti.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 10:01:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B0GSvbQFyAnmDRUi+6peu8A2blAvaPyXXG02GKPu9fo="
+        }
+      ]
+    }
+  ]
+}
