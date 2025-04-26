@@ -1,10 +1,79 @@
 ﻿@using System.ComponentModel.DataAnnotations
+@using Microsoft.AspNetCore.Components.Forms
 
-<section id="contact" style="height:100vh; background-color: #efe; padding: 2rem;">
-    <h2>Kontakt</h2>
+<section id="contact" style="height:100vh; background-color: #efe; padding: 2rem; scroll-margin-top: 100px;">
+    <div style="display: flex; flex-direction: row; height: 400px;">
 
+        <div style="flex: 1; padding-right: 10px;">
+            <h4>Odwiedź nas</h4>
+            <p>
+                Zapraszam do mojego biura przy ul. xyz w Białymstoku!<br />
+                Czynne: pon–pt 9:00–17:00
+            </p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19159.58175690181!2d23.092478334718308!3d53.111131082946315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ffbeb3df94b99%3A0x40a4c9c883d46a17!2sNowe%20Miasto%2C%20Bia%C5%82ystok!5e0!3m2!1spl!2spl!4v1745683508858!5m2!1spl!2spl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+
+        <div style="flex: 1; padding-left: 10px;">
+            <h4>Masz pytania? Chętnie na nie odpowiem!</h4>
+            <EditForm Model="@formModel" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label>Imię:</label><br />
+        <InputText @bind-Value="formModel.Name" />
+        <ValidationMessage For="@(() => formModel.Name)" />
+    </div>
+
+    <div>
+        <label>Email:</label><br />
+        <InputText @bind-Value="formModel.Email" />
+        <ValidationMessage For="@(() => formModel.Email)" />
+    </div>
+
+    <div>
+        <label>Wiadomość:</label><br />
+        <InputTextArea @bind-Value="formModel.Message" />
+        <ValidationMessage For="@(() => formModel.Message)" />
+    </div>
+
+    <button type="submit">Wyślij</button>
+</EditForm>
+
+@if (successMessage != null)
+{
+    <p style="color: green;">@successMessage</p>
+}
+
+        </div>
+    </div>
 </section>
 
 @code {
+    private ContactFormModel formModel = new();
+    private string? successMessage;
 
+    private async Task HandleValidSubmit()
+    {
+
+        Console.WriteLine($"Wiadomość od {formModel.Name} ({formModel.Email}): {formModel.Message}");
+        successMessage = "Dziękujemy! Twoja wiadomość została wysłana (symulacja).";
+
+
+        formModel = new();
+    }
+
+    public class ContactFormModel
+    {
+        [Required(ErrorMessage = "Imię jest wymagane")]
+        public string Name { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Email jest wymagany")]
+        [EmailAddress(ErrorMessage = "Niepoprawny adres e-mail")]
+        public string Email { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Wiadomość jest wymagana")]
+        public string Message { get; set; } = string.Empty;
+    }
 }

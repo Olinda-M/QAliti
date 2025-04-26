@@ -63,14 +63,14 @@
     <StaticWebAssetEndpoint Include="_content/QAliti/js/scripts.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\scripts.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"360"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 20:27:07 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PUBmfgvHhy7R5WOr0o8UhFkppqDzcBxr9gsgYb3l9rc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"206"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PUBmfgvHhy7R5WOr0o8UhFkppqDzcBxr9gsgYb3l9rc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Apr 2025 16:28:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/QAliti/js/scripts.zcnpclm50c.js">
+    <StaticWebAssetEndpoint Include="_content/QAliti/js/scripts.z4hkodc4o9.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\scripts.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zcnpclm50c"},{"Name":"integrity","Value":"sha256-fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI="},{"Name":"label","Value":"_content/QAliti/js/scripts.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"360"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fR2YfyOCbTmH7mQWeMhlCdysJigSri2uLnJx1SL5xLI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 25 Apr 2025 20:27:07 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z4hkodc4o9"},{"Name":"integrity","Value":"sha256-PUBmfgvHhy7R5WOr0o8UhFkppqDzcBxr9gsgYb3l9rc="},{"Name":"label","Value":"_content/QAliti/js/scripts.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"206"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PUBmfgvHhy7R5WOr0o8UhFkppqDzcBxr9gsgYb3l9rc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 26 Apr 2025 16:28:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/QAliti/QAliti.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\QAliti.hage11b2tc.bundle.scp.css'))</AssetFile>

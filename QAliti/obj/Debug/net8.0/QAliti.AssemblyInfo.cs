@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QAliti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8392bcb8ee8c9ed4b5fafa9e01b0be99b74ebca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adf25a47f95503b1513bce39d87b89e63db4d8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("QAliti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QAliti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
